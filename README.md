@@ -79,7 +79,7 @@ Customer no.  2 :  Ken whose contact is ( 1808000 ) has paid  61.0 $.
 ```
 
 * Tableau: As a powerful Business Intelligence (BI) tool, Tableau facilitated data analysis and visualization. With its intuitive interface and interactive dashboards, we gained valuable insights from the data, enabling us to make data-driven decisions for LittleLemon.
-![]()
+![](https://github.com/ukokobili/db-capstone-project/blob/main/Tableau/LittleLemonDashboard.png)
 
 * GitHub: We leveraged GitHub as our version control tool. Its collaborative features allowed us to manage code changes, work efficiently as a team, and maintain a history of our project's development.
 
